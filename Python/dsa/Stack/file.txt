@@ -1,0 +1,7 @@
+Introduction to computer aided drafting, IS/ISO codes; Limits, tolerances and Fits, Surface finish; Important symbols in machine drawing. Assembly and part drawings of simple assemblies and sub-assemblies of machine parts viz., couplings, clutches, bearings, gear assemblies, I.C. Engine components, valves, machine tools, etc.
+
+Texts:
+[1] N. D. Bhatt, Machine Drawing, Charotar Publishing House Pvt Ltd, 2016.
+[2] N. Sidheswar, P. Kanniah and V.V.S. Sastry, Machine Drawing, Tata McGraw Hill, 2001
+[3] SP 46: 1988 Engineering Drawing Practice for School & Colleges. Bureau of Indian Standards
+[4] K. R..Gopalakrishna, Machine Drawing, 9th Ed., Subhas Stores, Bangalore, 2005.
